@@ -1,0 +1,9 @@
+export const LOGIN = "LOGIN";
+export const LOGOUT = "LOGOUT";
+export const SAVE = "SAVE";
+export const LOGIN_SUCCESS = "LOGIN_SUCCESS";
+export const LOGIN_ERROR = "LOGIN_ERROR";
+export const REGISTRATION_SUCCESS = "REGISTRATION_SUCCESS";
+export const REGISTRATION_ERROR = "REGISTRATION_ERROR";
+export const RESET_ALERTS = "RESET_ALERTS";
+export const GET_FORECAST = "GET_FORECAST";
